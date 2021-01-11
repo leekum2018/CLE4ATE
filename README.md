@@ -2,7 +2,8 @@
 [Constituency Lattice Encoding for Aspect Term Extraction](https://www.aclweb.org/anthology/2020.coling-main.73.pdf). Yunyi Yang, Kun Li, Xiaojun Quan, Weizhou Shen, Qinliang Su. In Proceedings of COLING, 2020.
 
 ## Data
-[[Data](https://github.com/NJUNLP/GTS/tree/main/data)]:
+[[Laptop](https://github.com/leekum2018/CLE4ATE/tree/main/Laptops_flat)]
+[[Restaurant 16](https://github.com/leekum2018/CLE4ATE/tree/main/Restaurants16_flat)]:
 the constituency parsing results has been already provided in the processed data.
 
 
